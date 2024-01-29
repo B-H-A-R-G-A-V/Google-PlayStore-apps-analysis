@@ -1,2 +1,2 @@
-# Portfolio
-Here are some of my projects that I have worked on in different technologies like Excel, Power Bi, Tableau, and SQL.
+# Google PlayStore apps analysis 
+Here is one of my projects which showcases different technologies like Excel, Power BI, and SQL.
